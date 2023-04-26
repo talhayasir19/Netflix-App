@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
 int screenIndex = 0;
 
 class MainScreen extends StatefulWidget {
-  static const pageName = "/NewsScreen";
+  static const pageName = "/MainScreen";
   MainScreen({super.key});
 
   @override
